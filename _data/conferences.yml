@@ -10,6 +10,50 @@
   start: 2025-05-03
   end: 2025-05-05
   hindex: 100
-  sub: CF
+  sub: Workshop
   note: TBA
 
+- title: FAST
+  year: 2026
+  id: fast26spring
+  link: https://www.usenix.org/conference/fast26
+  deadline: '2025-03-18 23:59:59'
+  abstract_deadline: '2025-03-18 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: Conf
+  note: TBA
+
+- title: FAST
+  year: 2026
+  id: fast26fall
+  link: https://www.usenix.org/conference/fast26
+  deadline: '2025-09-16 23:59:59'
+  abstract_deadline: '2025-09-16 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: Conf
+  note: TBA
+
+- title: SOSP
+  year: 2025
+  id: sosp25
+  link: https://sigops.org/s/conferences/sosp/2025
+  deadline: '2025-04-17 23:59:59'
+  abstract_deadline: '2025-04-10 23:59:59'
+  timezone: UTC-07
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: Conf
+  note: TBA
