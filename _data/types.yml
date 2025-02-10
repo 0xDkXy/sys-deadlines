@@ -1,7 +1,7 @@
 ---
 - name: Conferences
-  sub: Conf
+  sub: CONF
   color: "#ffd300"
 - name: Workshops
-  sub: Workshop
+  sub: WORKSHOP
   color: "#deff0a"

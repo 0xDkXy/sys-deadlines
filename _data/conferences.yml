@@ -10,7 +10,7 @@
   start: 2025-05-03
   end: 2025-05-05
   hindex: 100
-  sub: Workshop
+  sub: WORKSHOP
   note: TBA
 
 - title: FAST
@@ -25,7 +25,7 @@
   start: TBA
   end: TBA
   hindex: 100
-  sub: Conf
+  sub: CONF
   note: TBA
 
 - title: FAST
@@ -40,7 +40,7 @@
   start: TBA
   end: TBA
   hindex: 100
-  sub: Conf
+  sub: CONF
   note: TBA
 
 - title: SOSP
@@ -55,5 +55,5 @@
   start: TBA
   end: TBA
   hindex: 100
-  sub: Conf
+  sub: CONF
   note: TBA
