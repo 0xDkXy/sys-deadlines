@@ -57,3 +57,48 @@
   hindex: 100
   sub: CONF
   note: TBA
+
+- title: ASPLOS
+  year: 2026
+  id: asplos26-summer
+  link: https://www.asplos-conference.org/asplos2026/
+  deadline: '2025-08-20 23:59:59'
+  abstract_deadline: '2025-08-13 23:59:59'
+  timezone: UTC-05
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
+
+- title: EuroSys
+  year: 2026
+  id: eurosys26-spring
+  link: https://2026.eurosys.org/
+  deadline: '2025-05-13 23:59:59'
+  abstract_deadline: '2025-05-08 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
+
+- title: EuroSys
+  year: 2026
+  id: eurosys26-fall
+  link: https://2026.eurosys.org/
+  deadline: '2025-09-25 23:59:59'
+  abstract_deadline: '2025-09-18 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
