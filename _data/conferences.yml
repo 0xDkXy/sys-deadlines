@@ -117,3 +117,18 @@
   hindex: 100
   sub: CONF
   note: TBA
+
+- title: OSDI
+  year: 2026
+  id: osdi26
+  link: https://www.usenix.org/conference/osdi26
+  deadline: '2025-12-11 22:59:59'
+  abstract_deadline: '2025-12-04 22:59:59'
+  timezone: UTC+0
+  place: 'Seattle, WA, USA'
+  date: '2026-07-13'
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
