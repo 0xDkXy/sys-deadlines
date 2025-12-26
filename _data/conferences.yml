@@ -132,3 +132,33 @@
   hindex: 100
   sub: CONF
   note: TBA
+
+- title: FAST
+  year: 2027
+  id: fast27spring
+  link: https://www.usenix.org/conference/fast27
+  deadline: '2026-03-17 23:59:59'
+  abstract_deadline: '2025-03-17 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
+
+- title: FAST
+  year: 2027
+  id: fast27fall
+  link: https://www.usenix.org/conference/fast27
+  deadline: '2026-09-15 23:59:59'
+  abstract_deadline: '2025-03-17 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
+  hindex: 100
+  sub: CONF
+  note: TBA
